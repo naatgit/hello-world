@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-first repository
+I'm reading GitHub guides.
